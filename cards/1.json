@@ -1,7 +1,7 @@
 {
     "name": "Shib Jet",
     "description": "Shib Jet",
-    "image_url": "https://github.com/aonhac/nft-demo/raw/master/cards/2.jpg",
+    "image_url": "https://github.com/aonhac/nft-demo/blob/main/cards/1.jpg",
     "attributes": [
         {
           "trait_type": "class", 
